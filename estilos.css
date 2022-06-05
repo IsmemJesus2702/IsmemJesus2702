@@ -17,16 +17,16 @@
 }
 @keyframes banner{
 	0%, 20%{
-		background-image: url("https://fondosmil.com/fondo/12406.jpg");
+		background-image: url("https://dam.cocinafacil.com.mx/wp-content/uploads/2020/08/cocinar-mas-rapido.jpg");
 	}
 	25%, 45%{
-		background-image: url("https://www.todopaisajes.com/Minis/ciudad-de-noche.jpg");
+		background-image: url("https://t1.rg.ltmcdn.com/es/posts/7/4/1/ceviche_peruano_18147_orig.jpg");
 	}
 	50%, 70%{
-		background-image: url("https://i.pinimg.com/originals/b9/1d/fd/b91dfdd21cf816a69ed544d6800680a4.jpg");
+		background-image: url("https://d320djwtwnl5uo.cloudfront.net/recetas/cover/causa_Cv0xOn6s2WIVwgK7lymAzMHSDQh4Et.png");
 	}
 	75%, 100%{
-		background-image: url("https://i.pinimg.com/originals/55/5e/52/555e52ca50443a4d366858dc5c83d540.jpg");
+		background-image: url("https://perudelights.com/wp-content/uploads/2011/05/lomo.jpeg");
 	}
 }
 .capa{
@@ -65,30 +65,38 @@
 	border-radius: 50px;
 	color: transparent;
 }
-
-.Inicio { 
-	padding-right: 40px;
+.navbar-brand {
+	margin-left: 50px;
+	font-family: 'Dancing Script', cursive;
+}
+.nav-link {
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
 }
 .recetas {
-	padding-right: 20px;
+	padding-right: 30px;
 }
 .aprende {
-	padding-right: 10px;
+	padding-right: 20px;
 }
 .mejores {
 	padding-right: 20px;
 }
 .restaurantes {
-	padding-right: 20px;
+	padding-right: 10px;
+}
+.entrevista {
+	padding-right: 200px;
 }
 .latino {
-	margin-top: 100px;
 	text-align: center;
-	
+	margin-top: 200px;	
 }
 .comidalatin {
-	margin-top: 100px;
+	margin-top: 200px;
   	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 40px;
 }
 .resumenlatin {
 	text-align: center;
@@ -117,6 +125,7 @@ body {
     font-family: 'Dancing Script', cursive;
     margin-bottom: 40px;
     color: black;
+    margin-top: 100px;
 }
 
 .subtitulo {
@@ -171,4 +180,27 @@ body {
 }
 .carr {
     color: white;
+}
+
+.imgtitulo{
+	margin-top: 200px;
+}
+
+.aprendetitulo {
+	margin-top: 80px;
+  	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 30px;
+}
+.resutitulo {
+	margin-top: 20px;
+	text-align: center;
+}
+.aprendetitulos {
+	margin-top: 200px;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
+.imgtitulos {
+	margin-top: 75px;
 }
