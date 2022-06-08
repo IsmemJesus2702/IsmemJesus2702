@@ -273,7 +273,8 @@ body {
 #recetass {
 	text-align: center;
   	margin-top: 100px;
-  	color: transparent;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 30px;
 }
 .rece2 {
 	text-align: center;
@@ -310,8 +311,7 @@ body {
 
 }
 #postres {
-	text-align: center;
-	color: transparent;
+	
 }
 #sigue {
 	text-align: center;
