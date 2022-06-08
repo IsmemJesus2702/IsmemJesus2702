@@ -85,9 +85,13 @@
 .restaurantes {
 	padding-right: 10px;
 }
-.entrevista {
-	padding-right: 200px;
+.postre {
+	padding-right: 10px;
 }
+.sigue {
+	padding-right: 100px;
+}
+
 .latino {
 	text-align: center;
 	margin-top: 100px;	
@@ -183,11 +187,10 @@ body {
 }
 
 .imgtitulo{
-	margin-top: 200px;
 }
 
 .aprendetitulo {
-	margin-top: 80px;
+	margin-top: 50px;
   	text-align: center;
   	font-family: 'Dancing Script', cursive;
   	font-size: 30px;
@@ -197,19 +200,120 @@ body {
 	text-align: center;
 }
 .aprendetitulos {
-	margin-top: 200px;
+	margin-top: 50px;
 	text-align: center;
 	font-family: 'Dancing Script', cursive;
 }
 .imgtitulos {
-	margin-top: 55px;
+	margin-top: 100px;
 }
 .latino3 {
-	margin-top: 100px;
+	margin-top: 200px;
 }
 .comidalatin2 {
 	font-family: 'Dancing Script', cursive;
 	text-align: center;
 	font-size: 30px;
+	margin-top: 200px;
+}
+.imgtitulo {
+	margin-top: 60px;
+}
+
+
+.siguenos {
+	text-align: center;
 	margin-top: 100px;
+	font-family: 'Dancing Script', cursive;
+}
+.f1 {
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 20px;
+}
+.comunicanos {
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Dancing Script', cursive;
+}
+.f2{
+	font-size: 20px;
+	text-align: center;
+	
+}
+.ubicanos {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.peru {
+	text-align: center;
+}
+.mundo {
+	text-align: center;
+	margin-top: 100px;
+}
+.f1 {
+	position: relative;
+	margin: 10px;
+	font-size: 20px;
+}
+.f1 a {
+	color: black;
+}
+.f2 {
+	position: relative;
+	font-size: 20px;
+	text-align: center;
+}
+.f2 a {
+	color: black;
+}
+#recetass {
+	text-align: center;
+  	margin-top: 100px;
+  	color: transparent;
+}
+.rece2 {
+	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 30px;
+  	margin-top: 150px;
+}
+#aprendeacocinar {
+	margin-top: 200px;
+  	text-align: center;
+  	color: transparent;
+}
+.cocina {
+
+  	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 40px;
+}
+#comidarecomendada {
+	text-align: center;
+  	margin-top: 100px;
+  	color: transparent;
+}
+.comidarecomendadas {
+	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 30px;
+  	
+}
+.recet {
+	text-align: center;
+  	font-family: 'Dancing Script', cursive;
+  	font-size: 30px;
+
+}
+#postres {
+	text-align: center;
+	color: transparent;
+}
+#sigue {
+	text-align: center;
+	color: transparent;
 }
